@@ -1,0 +1,5 @@
+<fleet>1521316055856</fleet>
+<truck><make>Ford</make><vin>4E3AL54F6TE480780</vin><capacity>5</capacity><year>2001</year><mileage>8000</mileage><numCapacity>8</numCapacity><mpg>11</mpg><towingCapacity>1000</towingCapacity></truck>
+<suv><make>Chevrolet</make><vin>1G1YV2DW2B5131461</vin><capacity>5</capacity><year>2017</year><mileage>8000</mileage><numCapacity>8</numCapacity><mpg>20</mpg><towingCapacity>3000</towingCapacity></suv>
+<suv><make>Ford</make><vin>5B3AL54F6TE480780</vin><capacity>5</capacity><year>2001</year><mileage>8000</mileage><numCapacity>8</numCapacity><mpg>11</mpg><towingCapacity>1000</towingCapacity></suv>
+<sedan><make>Chevrolet</make><vin>P91YV2DW2B5131461</vin><capacity>5</capacity><year>2017</year><mileage>8000</mileage><numCapacity>8</numCapacity><mpg>20</mpg></sedan>
